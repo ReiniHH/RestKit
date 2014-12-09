@@ -1,3 +1,5 @@
+@Deprecated
+
 # Object Mapping
 
 This document details the design of object mapping in RestKit as of version 0.9.3
